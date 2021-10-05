@@ -1,0 +1,222 @@
+[
+ {
+   "families": "White",
+   "values": 7,
+   "years": 2004
+ },
+ {
+   "families": "White",
+   "values": 6,
+   "years": 2005
+ },
+ {
+   "families": "White",
+   "values": 5.5,
+   "years": 2006
+ },
+ {
+   "families": "White",
+   "values": 5.5,
+   "years": 2007
+ },
+ {
+   "families": "White",
+   "values": 7,
+   "years": 2008
+ },
+ {
+   "families": "White",
+   "values": 11,
+   "years": 2009
+ },
+ {
+   "families": "White",
+   "values": 11,
+   "years": 2010
+ },
+ {
+   "families": "White",
+   "values": 10,
+   "years": 2011
+ },
+ {
+   "families": "White",
+   "values": 9,
+   "years": 2012
+ },
+ {
+   "families": "White",
+   "values": 8.5,
+   "years": 2013
+ },
+ {
+   "families": "White",
+   "values": 7,
+   "years": 2014
+ },
+ {
+   "families": "Black",
+   "values": 13,
+   "years": 2004
+ },
+ {
+   "families": "Black",
+   "values": 13,
+   "years": 2005
+ },
+ {
+   "families": "Black",
+   "values": 11,
+   "years": 2006
+ },
+ {
+   "families": "Black",
+   "values": 10.5,
+   "years": 2007
+ },
+ {
+   "families": "Black",
+   "values": 13,
+   "years": 2008
+ },
+ {
+   "families": "Black",
+   "values": 17,
+   "years": 2009
+ },
+ {
+   "families": "Black",
+   "values": 19,
+   "years": 2010
+ },
+ {
+   "families": "Black",
+   "values": 18.5,
+   "years": 2011
+ },
+ {
+   "families": "Black",
+   "values": 17,
+   "years": 2012
+ },
+ {
+   "families": "Black",
+   "values": 16,
+   "years": 2013
+ },
+ {
+   "families": "Black",
+   "values": 14,
+   "years": 2014
+ },
+ {
+   "families": "Asian",
+   "values": 7,
+   "years": 2004
+ },
+ {
+   "families": "Asian",
+   "values": 6,
+   "years": 2005
+ },
+ {
+   "families": "Asian",
+   "values": 5,
+   "years": 2006
+ },
+ {
+   "families": "Asian",
+   "values": 5,
+   "years": 2007
+ },
+ {
+   "families": "Asian",
+   "values": 6,
+   "years": 2008
+ },
+ {
+   "families": "Asian",
+   "values": 11.5,
+   "years": 2009
+ },
+ {
+   "families": "Asian",
+   "values": 11.5,
+   "years": 2010
+ },
+ {
+   "families": "Asian",
+   "values": 11,
+   "years": 2011
+ },
+ {
+   "families": "Asian",
+   "values": 9,
+   "years": 2012
+ },
+ {
+   "families": "Asian",
+   "values": 7.5,
+   "years": 2013
+ },
+ {
+   "families": "Asian",
+   "values": 7,
+   "years": 2014
+ },
+ {
+   "families": "Hispanic",
+   "values": 10,
+   "years": 2004
+ },
+ {
+   "families": "Hispanic",
+   "values": 9,
+   "years": 2005
+ },
+ {
+   "families": "Hispanic",
+   "values": 8,
+   "years": 2006
+ },
+ {
+   "families": "Hispanic",
+   "values": 9,
+   "years": 2007
+ },
+ {
+   "families": "Hispanic",
+   "values": 11,
+   "years": 2008
+ },
+ {
+   "families": "Hispanic",
+   "values": 17,
+   "years": 2009
+ },
+ {
+   "families": "Hispanic",
+   "values": 17,
+   "years": 2010
+ },
+ {
+   "families": "Hispanic",
+   "values": 16,
+   "years": 2011
+ },
+ {
+   "families": "Hispanic",
+   "values": 14.5,
+   "years": 2012
+ },
+ {
+   "families": "Hispanic",
+   "values": 13,
+   "years": 2013
+ },
+ {
+   "families": "Hispanic",
+   "values": 11,
+   "years": 2014
+ }
+]
